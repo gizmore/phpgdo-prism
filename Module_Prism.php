@@ -15,7 +15,7 @@ final class Module_Prism extends GDO_Module
     {
         $this->addJS('prism/prism.js');
         $this->addCSS('prism/prism.css');
-        $this->addJS('js/gdo6-prism.js');
+        $this->addJS('js/phpgdo-prism.js');
     }
     
 }
